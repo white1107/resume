@@ -33,12 +33,12 @@
 - Taste Classification Based On Food Images (April, 2019 - June, 2019): In a task to estimate the taste of food from its image data alone, I have achieved high prediction accuracy on a small dataset by using preprocessing and data expansion.
 
 ## Achievements and Qualification
-- Bronze Medal(86/1170) in Kaggle: Indoor Location & Navigation -https://www.interviewbit.com/profile/slrparser.
-- Silver Medal(27/237) in SIGNATE: In this competition, I predicted the success or failure of a crowdfunding project based on information such as the target amount raised and the text of the appeal. I succeeded in improving the prediction accuracy by using ensemble learning with various models.
-- 2nd position in a university class competition: The competition was to classify image data into ten di↵erent classes. As the competition time was limited, I used a simple model that was as quick to learn as possible, and by extending the data, I was able to get a better score than the other students.
-- TOEIC 925: In 2021
-- TOEFL iBT 78: In 2021
-- HSK 4(Chinese Proficiency Test): In 2020
+- **Bronze Medal(86/1170) in Kaggle**: Indoor Location & Navigation -https://www.interviewbit.com/profile/slrparser.
+- **Silver Medal(27/237) in SIGNATE**: In this competition, I predicted the success or failure of a crowdfunding project based on information such as the target amount raised and the text of the appeal. I succeeded in improving the prediction accuracy by using ensemble learning with various models.
+- **2nd position in a university class competition**: The competition was to classify image data into ten di↵erent classes. As the competition time was limited, I used a simple model that was as quick to learn as possible, and by extending the data, I was able to get a better score than the other students.
+- **TOEIC 925**: In 2021
+- **TOEFL iBT 78**: In 2021
+- **HSK 4(Chinese Proficiency Test)**: In 2020
 
 ## Skills
 - **Proficient**: Python, Julia, Typescript, Data Structures and Algorithms, MySQL, AWS 
