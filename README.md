@@ -9,28 +9,31 @@
 
 ## Job Experience
 
-**Center for Quantum Information and Quantum Biology** Technical Assistant, October. 2021 - April. 2022
+### Center for Quantum Information and Quantum Biology 
+  Technical Assistant, October. 2021 - April. 2022
 
-- Amazon Braket Monitoring System: The existing Amazon Braket cannot automatically delete quantum computation tasks, which often results in unexpected costs. Therefore, I built a system to automatically delete tasks completed within AWS to prevent unexpected costs from being charged.
+- **Amazon Braket Monitoring System**: The existing Amazon Braket cannot automatically delete quantum computation tasks, which often results in unexpected costs. Therefore, I built a system to automatically delete tasks completed within AWS to prevent unexpected costs from being charged.
 
-- Creating a collaborative development environment: In the past, each researcher had a di↵erent development environment and resources. It is now easier to create a unified development environment, by creating an environment on AWS and creating a base environment with Singularity and Docker.
+- **Creating a collaborative development environment**: In the past, each researcher had a di↵erent development environment and resources. It is now easier to create a unified development environment, by creating an environment on AWS and creating a base environment with Singularity and Docker.
 
-**M3, Inc. Tokyo, Japan**  Machine Learning Internship February. 2019 - March. 2019
+### M3, Inc. Tokyo, Japan
+  Machine Learning Internship February. 2019 - March. 2019
 
-- Comparison of models: Determined which of the two speech models was better in cost and performance by preparing a task and an evaluation method.
+- **Comparison of models**: Determined which of the two speech models was better in cost and performance by preparing a task and an evaluation method.
 
-- Annotation of datasets in QA format: The annotation was accelerated by applying a document classification model to a large amount of unprocessed data and classifying it roughly.
+- **Annotation of datasets in QA format**: The annotation was accelerated by applying a document classification model to a large amount of unprocessed data and classifying it roughly.
 
 
-**The University of Tokyo**  Technical Assistant　Technical Assistant, April. 2022 - Now
+### The University of Tokyo
+  Technical Assistant　Technical Assistant, April. 2022 - Now
 
 - Parallelization of quantum computation for higher speed
 
 ## Projects
 
-- Link Prediction in Knowledge Graph (April, 2021 - February, 2022): In the Link Prediction task used in search and recommendation systems, I have used a special concatenate method to build a model with deeper layers than conventional models. This method improved the accuracy.
-- Development of an application for separating text and formulae in paper format (April, 2021 - July, 2021): Only the mathematical formulae needed to be extracted from the images, and I needed to develop a practical application as soon as possible. To achieve this, I found features specific to mathematical expressions and achieved an accuracy of over 80%. In addition, I achieved an accuracy of over 99% by using a binary classification based on the proportion of colors in the image.
-- Taste Classification Based On Food Images (April, 2019 - June, 2019): In a task to estimate the taste of food from its image data alone, I have achieved high prediction accuracy on a small dataset by using preprocessing and data expansion.
+- **Link Prediction in Knowledge Graph (April, 2021 - February, 2022)**: In the Link Prediction task used in search and recommendation systems, I have used a special concatenate method to build a model with deeper layers than conventional models. This method improved the accuracy.
+- **Development of an application for separating text and formulae in paper format (April, 2021 - July, 2021)**: Only the mathematical formulae needed to be extracted from the images, and I needed to develop a practical application as soon as possible. To achieve this, I found features specific to mathematical expressions and achieved an accuracy of over 80%. In addition, I achieved an accuracy of over 99% by using a binary classification based on the proportion of colors in the image.
+- **Taste Classification Based On Food Images (April, 2019 - June, 2019)**: In a task to estimate the taste of food from its image data alone, I have achieved high prediction accuracy on a small dataset by using preprocessing and data expansion.
 
 ## Achievements and Qualification
 - **Bronze Medal(86/1170) in Kaggle**: Indoor Location & Navigation -https://www.interviewbit.com/profile/slrparser.
