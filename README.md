@@ -9,6 +9,15 @@
 
 ## Job Experience
 
+###LINE Corporation
+   AI Company Engineering Internship, August. 2022 - Now
+
+- **Analyze LAION-5B and create filtering functions**: I analyzed data from LAION-5B, a dataset of paired images and captions that is now frequently used in the Vision & Language model. This allowed us to investigate data bias and what constitutes appropriate data. Using the results, I created a filtering function and investigated the effectiveness of the filter using an actual generative model. The results showed that data cleansing worked properly and improved the accuracy of the model.
+
+- **Establishment of a large-scale data set maintenance system**: I have built a system that can process the filtering functions created in the above task within a feasible time frame for large data sets collected from the internet. This facilitates the creation of high-quality data sets for training data such as generative models.
+
+Internship Blog : https://engineering.linecorp.com/ja/blog/internship-cvl-masumoto
+
 ### Center for Quantum Information and Quantum Biology 
   Technical Assistant, October. 2021 - April. 2022
 
@@ -44,7 +53,7 @@
 - **HSK 4(Chinese Proficiency Test)**: In 2020
 
 ## Skills
-- **Proficient**: Python, Julia, Typescript, Data Structures and Algorithms, MySQL, AWS 
+- **Proficient**: Python, Julia, React, Typescript, Data Structures and Algorithms, MySQL, AWS 
 
 - **Comfortable**: Swift, C++, Java, HTML, CSS, C#
 
