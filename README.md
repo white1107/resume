@@ -9,7 +9,7 @@
 
 ## Job Experience
 
-###LINE Corporation
+### LINE Corporation
    AI Company Engineering Internship, August. 2022 - Now
 
 - **Analyze LAION-5B and create filtering functions**: I analyzed data from LAION-5B, a dataset of paired images and captions that is now frequently used in the Vision & Language model. This allowed us to investigate data bias and what constitutes appropriate data. Using the results, I created a filtering function and investigated the effectiveness of the filter using an actual generative model. The results showed that data cleansing worked properly and improved the accuracy of the model.
