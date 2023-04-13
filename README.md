@@ -10,7 +10,7 @@
 ## Job Experience
 
 ### LINE Corporation
-   AI Company Engineering Internship, August. 2022 - Now
+   AI Company Engineering Internship, August. 2022 - January. 2023
 
 - **Analyze LAION-5B and create filtering functions**: I analyzed data from LAION-5B, a dataset of paired images and captions that is now frequently used in the Vision & Language model. This allowed us to investigate data bias and what constitutes appropriate data. Using the results, I created a filtering function and investigated the effectiveness of the filter using an actual generative model. The results showed that data cleansing worked properly and improved the accuracy of the model.
 
@@ -34,7 +34,7 @@ Internship Blog : https://engineering.linecorp.com/ja/blog/internship-cvl-masumo
 
 
 ### The University of Tokyo
-  Technical Assistant　Technical Assistant, April. 2022 - Now
+  Technical Assistant　Technical Assistant, April. 2022 - March. 2023
 
 - Parallelization of quantum computation for higher speed
 
